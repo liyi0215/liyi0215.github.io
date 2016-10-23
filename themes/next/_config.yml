@@ -242,7 +242,7 @@ mathjax:
   cdn: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 # Swiftype Search API Key
-swiftype_key: 5zwe7Q4T-RFVqUBMVnjx
+#swiftype_key: 5zwe7Q4T-RFVqUBMVnjx
 
 # Baidu Analytics ID
 #baidu_analytics:
