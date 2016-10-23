@@ -76,4 +76,10 @@ deploy:
     coding: https://git.coding.net/ileeyi/ileeyi.git
   branch: master
 
+# localSearch
+search:
+  path: search.xml
+  field: post
+
+
 
