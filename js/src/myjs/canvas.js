@@ -2,7 +2,7 @@ $(function(){
     var canvas = document.querySelector('canvas'),
         ctx = canvas.getContext('2d');
     canvas.width = window.innerWidth;
-    canvas.height = document.body.scrollHeight;
+    canvas.height = window.innerHeight;
     ctx.lineWidth = .3;
     ctx.strokeStyle = (new Color(150)).style;
 
@@ -11,7 +11,7 @@ $(function(){
         y: 30 * canvas.height / 100
     };
     var dots = {
-        nb: 320,//parseInt(window.innerWidth * document.body.scrollHeight / 2000),
+        nb: 500,
         distance: 50,
         d_radius: 100,
         array: []
@@ -109,11 +109,20 @@ $(function(){
         drawDots();
         requestAnimationFrame(animateDots);
     }
-    $('canvas').on('mousemove', function(e){
+    function getScrollTop(){
+        var scrollTop=0;
+        if(document.documentElement&&document.documentElement.scrollTop){
+            scrollTop=document.documentElement.scrollTop;
+        }else if(document.body){
+            scrollTop=document.body.scrollTop;
+        }
+        return scrollTop;
+    }
+    $('body').on('mousemove', function(e){
         mousePosition.x = e.pageX;
-        mousePosition.y = e.pageY;
+        mousePosition.y = e.pageY - getScrollTop();
     });
-    $('canvas').on('mouseleave', function(e){
+    $('body').on('mouseleave', function(e){
         mousePosition.x = canvas.width / 2;
         mousePosition.y = canvas.height / 2;
     });
