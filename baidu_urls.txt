@@ -1,0 +1,9 @@
+http://liyi.wiki/2016/11-02-Ubuntu下忘记以root权限打开是的保存操作-vim命令.html
+http://liyi.wiki/2016/11-01-Git与ssh-key多账户配置.html
+http://liyi.wiki/2016/10-28-hexo添加不被hexo编译的静态网页.html
+http://liyi.wiki/2016/10-28-使用homebrew搭建PHP-Nginx-LNMP开发环境.html
+http://liyi.wiki/2016/10-24-launchpad自定义行列数Dock.html
+http://liyi.wiki/2016/10-23-hello-world.html
+http://liyi.wiki/2016/10-22-Ubuntu安装JDK.html
+http://liyi.wiki/2016/10-22-Npm命令行自动补全.html
+http://liyi.wiki/2016/10-22-MarkDown简明语法手册.html
