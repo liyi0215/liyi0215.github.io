@@ -14,21 +14,16 @@
   <script>
     window._bd_share_config = {
       "common": {
+        "bdSnsKey": {},
         "bdText": "",
         "bdMini": "2",
-        "bdMiniList": false,
-        "bdPic": ""
+        "bdPic": "",
+        "bdStyle": "0",
+        "bdSize": "24"
       },
-      "share": {
-        "bdSize": "16",
-        "bdStyle": "0"
-      },
-      "image": {
-        "viewList": ["tsina", "douban", "sqq", "qzone", "weixin", "twi", "fbook"],
-        "viewText": "分享到：",
-        "viewSize": "16"
-      }
-    }
+      "share": {},
+      "selectShare": {"bdContainerClass": null, "bdSelectMiniList": ["qzone", "tsina", "tqq", "renren", "weixin"]}
+    };
   </script>
 {% elseif theme.baidushare.type === "slide" %}
   <script>

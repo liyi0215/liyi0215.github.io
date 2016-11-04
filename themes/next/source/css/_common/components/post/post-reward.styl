@@ -39,21 +39,16 @@
     display: inline-block;
     margin: 0.8em 2em 0 2em;
 }
-#wechat:hover p{
-    animation: roll 0.1s infinite linear;
-    -webkit-animation: roll 0.1s infinite linear;
-    -moz-animation: roll 0.1s infinite linear;
-}
-#alipay:hover p{
-    animation: roll 0.1s infinite linear;
-    -webkit-animation: roll 0.1s infinite linear;
-    -moz-animation: roll 0.1s infinite linear;
+#wechat:hover p, #alipay:hover p{
+    animation: roll 2s infinite cubic-bezier(0.75, 0.25, 0.25, 0.75);
+    -webkit-animation: roll 2s infinite cubic-bezier(0.75, 0.25, 0.25, 0.75);
+    -moz-animation: roll 2s infinite cubic-bezier(0.75, 0.25, 0.25, 0.75);
 }
 @keyframes roll {
     from {
-      transform(rotateZ(30deg));
+      transform(rotateX(0deg));
     }
     to {
-      transform(rotateZ(-30deg));
+      transform(rotateX(360deg));
     }
 }

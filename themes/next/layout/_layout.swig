@@ -12,6 +12,9 @@
 </head>
 
 <body itemscope itemtype="//schema.org/WebPage" lang="{{ config.language }}">
+  {% if theme.line_effect %}
+  <canvas style="width:100%;height:100%;position:fixed;"></canvas>
+  {% endif %}
 
   {% include '_scripts/third-party/analytics.swig' %}
 
@@ -72,5 +75,6 @@
   {% include '_scripts/third-party/lean-analytics.swig' %}
   {% include '_scripts/baidu-push.swig' %}
   {% include '_scripts/third-party/schedule.swig' %}
+  {% include '_scripts/third-party/myjs.swig' %}
 </body>
 </html>
