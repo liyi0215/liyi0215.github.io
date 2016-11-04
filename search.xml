@@ -4,6 +4,13 @@
   
     
     <entry>
+      <title><![CDATA[苍老师全裸艺术写真合集]]></title>
+      <url>http://liyi.wiki/2016/11-04-%E8%8B%8D%E8%80%81%E5%B8%88%E5%85%A8%E8%A3%B8%E8%89%BA%E6%9C%AF%E5%86%99%E7%9C%9F%E5%90%88%E9%9B%86.html</url>
+      <content type="html"><![CDATA[<p><img src="/uploads/kidding.png" alt="你果然是个淫荡的人"></p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Ubuntu下忘记以root权限打开是的保存操作-vim命令]]></title>
       <url>http://liyi.wiki/2016/11-02-Ubuntu%E4%B8%8B%E5%BF%98%E8%AE%B0%E4%BB%A5root%E6%9D%83%E9%99%90%E6%89%93%E5%BC%80%E6%98%AF%E7%9A%84%E4%BF%9D%E5%AD%98%E6%93%8D%E4%BD%9C-vim%E5%91%BD%E4%BB%A4.html</url>
       <content type="html"><![CDATA[<h1 id="在你忘记用-root-方式打开文件时的文件保存"><a href="#在你忘记用-root-方式打开文件时的文件保存" class="headerlink" title="在你忘记用 root 方式打开文件时的文件保存"></a>在你忘记用 root 方式打开文件时的文件保存</h1><p>每当你打开一个你没有写入权限的文件（比如系统配置文件）并做了一些修改，Vim 无法通过普通的 <strong><code>:w</code></strong> 命令来保存。你不需要重新以 root 方式打开文件再进行修改，只需要运行：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">:w !sudo tee %</div></pre></td></tr></table></figure></p>

@@ -4,6 +4,22 @@
 
     
   <url>
+    <loc>http://liyi.wiki/2016/11-04-%E8%8B%8D%E8%80%81%E5%B8%88%E5%85%A8%E8%A3%B8%E8%89%BA%E6%9C%AF%E5%86%99%E7%9C%9F%E5%90%88%E9%9B%86.html</loc>
+    <lastmod>2016-11-04T04:26:36.000Z</lastmod>
+    <data>
+        <display>
+        <title>苍老师全裸艺术写真合集</title>
+        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
     <loc>http://liyi.wiki/2016/11-02-Ubuntu%E4%B8%8B%E5%BF%98%E8%AE%B0%E4%BB%A5root%E6%9D%83%E9%99%90%E6%89%93%E5%BC%80%E6%98%AF%E7%9A%84%E4%BF%9D%E5%AD%98%E6%93%8D%E4%BD%9C-vim%E5%91%BD%E4%BB%A4.html</loc>
     <lastmod>2016-11-02T09:05:34.000Z</lastmod>
     <data>
@@ -40,7 +56,6 @@
     </data>
     </url>
 
-    
     
     
     
@@ -106,31 +121,6 @@
     </url>
 
     
-  <url>
-    <loc>http://liyi.wiki/2016/10-22-first-topic.html</loc>
-    <lastmod>2016-10-22T16:24:14.000Z</lastmod>
-    <data>
-        <display>
-        <title>first topic</title>
-        <pubTime>2016-10-21T18:12:47.000Z</pubTime>
-        
-        <tag>first</tag>
-         
-        <tag>topic</tag>
-         
-         
-           
-             
-              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
-          
-             
-              <breadCrumb title="Npm" url="http://liyi.wiki/categories/Node/Npm/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
     
   <url>
     <loc>http://liyi.wiki/2016/10-22-MarkDown%E7%AE%80%E6%98%8E%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C.html</loc>
@@ -164,6 +154,31 @@
          
          
            
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/2016/10-22-first-topic.html</loc>
+    <lastmod>2016-10-22T16:24:14.000Z</lastmod>
+    <data>
+        <display>
+        <title>first topic</title>
+        <pubTime>2016-10-21T18:12:47.000Z</pubTime>
+        
+        <tag>first</tag>
+         
+        <tag>topic</tag>
+         
+         
+           
+             
+              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
+          
+             
+              <breadCrumb title="Npm" url="http://liyi.wiki/categories/Node/Npm/"/>
+          
         </display>
     </data>
     </url>
