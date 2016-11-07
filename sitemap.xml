@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://liyi.wiki/posts/57882/</loc>
+    <loc>http://liyi.wiki/posts/41985/</loc>
     
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://liyi.wiki/posts/41985/</loc>
+    <loc>http://liyi.wiki/posts/57882/</loc>
     
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     
@@ -121,13 +121,6 @@
   </url>
   
   <url>
-    <loc>http://liyi.wiki/resume/static/fonts/demo.css</loc>
-    
-    <lastmod>2016-09-01T15:32:53.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://liyi.wiki/resume/static/fonts/demo.html</loc>
     
     <lastmod>2016-09-01T15:32:53.000Z</lastmod>
@@ -136,6 +129,13 @@
   
   <url>
     <loc>http://liyi.wiki/resume/static/fonts/iconfont.css</loc>
+    
+    <lastmod>2016-09-01T15:32:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://liyi.wiki/resume/static/fonts/demo.css</loc>
     
     <lastmod>2016-09-01T15:32:53.000Z</lastmod>
     
