@@ -1,10 +1,13 @@
 ---
 title: first topic
-date: 2016-10-22 02:12:47
-tags: [first,topic]
+tags:
+  - first
+  - topic
 categories:
-    - Node
-    - Npm
+  - Node
+  - Npm
+abbrlink: 20985
+date: 2016-10-22 02:12:47
 ---
 
 ## first blog

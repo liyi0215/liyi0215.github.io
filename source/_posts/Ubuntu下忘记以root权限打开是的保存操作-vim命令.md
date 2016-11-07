@@ -1,7 +1,10 @@
 ---
 title: Ubuntu下忘记以root权限打开是的保存操作-vim命令
+tags:
+  - Ubuntu
+  - Vim
+abbrlink: 7606
 date: 2016-11-02 16:39:48
-tags: [Ubuntu, Vim]
 categories:
 ---
 # 在你忘记用 root 方式打开文件时的文件保存

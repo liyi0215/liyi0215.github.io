@@ -1,7 +1,10 @@
 ---
 title: Ubuntu安装JDK
+tags:
+  - Ubuntu
+  - JDK
+abbrlink: 16716
 date: 2016-10-22 16:16:14
-tags: [Ubuntu, JDK]
 categories:
 ---
 # Ubuntu安装JDK

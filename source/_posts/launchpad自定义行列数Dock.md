@@ -1,7 +1,10 @@
 ---
 title: launchpad自定义行列数Dock
+tags:
+  - Mac
+  - launchpad
+abbrlink: 32967
 date: 2016-10-24 11:56:16
-tags: [Mac, launchpad]
 categories:
 ---
 ## 打开终端应用，并输入下列指令：

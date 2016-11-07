@@ -1,7 +1,10 @@
 ---
 title: '使用homebrew搭建PHP,Nginx(LNMP开发环境)'
+tags:
+  - Php
+  - Nginx
+abbrlink: 41985
 date: 2016-10-28 16:55:24
-tags: [Php, Nginx]
 categories:
 ---
 ## 安装PHP

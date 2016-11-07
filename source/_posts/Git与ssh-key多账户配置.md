@@ -1,7 +1,10 @@
 ---
 title: Git与ssh-key多账户配置
+tags:
+  - Git
+  - ssh
+abbrlink: 52220
 date: 2016-11-01 17:36:48
-tags: [Git, ssh]
 categories:
 ---
 

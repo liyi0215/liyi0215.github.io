@@ -1,8 +1,9 @@
 ---
 title: MarkDown简明语法手册
+categories: Markdown
+abbrlink: 27937
 date: 2016-10-22 13:30:42
 tags:
-categories: Markdown
 ---
 
 ## Cmd Markdown 简明语法手册

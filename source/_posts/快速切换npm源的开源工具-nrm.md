@@ -1,8 +1,12 @@
 ---
 title: 快速切换npm源的开源工具--nrm
-date: 2016-10-22 13:18:08
-tags: [JavaScript, Node, Npm]
+tags:
+  - JavaScript
+  - Node
+  - Npm
 categories: Node
+abbrlink: 57882
+date: 2016-10-22 13:18:08
 ---
 
 # nrm 是一个 NPM 源管理器，允许你快速地在如下 NPM 源间切换：

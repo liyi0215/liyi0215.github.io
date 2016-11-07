@@ -1,7 +1,8 @@
 ---
 title: hexo添加不被hexo编译的静态网页
 categories: Hexo
-updated: 2016-10-21 12:40
+updated: '2016-10-21 12:40'
+abbrlink: 20662
 ---
 ## 如果你是不想hexo g时被模板改变你的html的话，可在在文件头加 **`layout: false`**
 例如新建一个404页面
