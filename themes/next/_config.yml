@@ -274,7 +274,7 @@ add_this_id: 2071304
 
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-86965821-1
 
 # CNZZ count
 #cnzz_siteid: 1260651675
