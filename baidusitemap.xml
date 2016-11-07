@@ -3,15 +3,42 @@
 
 
     
-    
   <url>
-    <loc>http://liyi.wiki/2016/11-04-%E8%8B%8D%E8%80%81%E5%B8%88%E5%85%A8%E8%A3%B8%E8%89%BA%E6%9C%AF%E5%86%99%E7%9C%9F%E5%90%88%E9%9B%86.html</loc>
-    <lastmod>2016-11-04T04:26:36.000Z</lastmod>
+    <loc>http://liyi.wiki/posts/57882/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
-        <title>苍老师全裸艺术写真合集</title>
-        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
+        <title>快速切换npm源的开源工具--nrm</title>
+        <pubTime>2016-10-22T05:18:08.000Z</pubTime>
         
+        <tag>Node</tag>
+         
+        <tag>Npm</tag>
+         
+        <tag>JavaScript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/52220/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>Git与ssh-key多账户配置</title>
+        <pubTime>2016-11-01T09:36:48.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+        <tag>ssh</tag>
+         
          
            
         </display>
@@ -19,10 +46,33 @@
     </url>
 
     
+  <url>
+    <loc>http://liyi.wiki/posts/55551/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>Npm命令行自动补全</title>
+        <pubTime>2016-10-22T06:24:31.000Z</pubTime>
+        
+        <tag>Node</tag>
+         
+        <tag>Npm</tag>
+         
+        <tag>JavaScript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
-    <loc>http://liyi.wiki/2016/11-02-Ubuntu%E4%B8%8B%E5%BF%98%E8%AE%B0%E4%BB%A5root%E6%9D%83%E9%99%90%E6%89%93%E5%BC%80%E6%98%AF%E7%9A%84%E4%BF%9D%E5%AD%98%E6%93%8D%E4%BD%9C-vim%E5%91%BD%E4%BB%A4.html</loc>
-    <lastmod>2016-11-02T09:05:34.000Z</lastmod>
+    <loc>http://liyi.wiki/posts/7606/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
         <title>Ubuntu下忘记以root权限打开是的保存操作-vim命令</title>
@@ -40,37 +90,16 @@
 
     
   <url>
-    <loc>http://liyi.wiki/2016/11-01-Git%E4%B8%8Essh-key%E5%A4%9A%E8%B4%A6%E6%88%B7%E9%85%8D%E7%BD%AE.html</loc>
-    <lastmod>2016-11-01T09:42:31.000Z</lastmod>
+    <loc>http://liyi.wiki/posts/16716/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
-        <title>Git与ssh-key多账户配置</title>
-        <pubTime>2016-11-01T09:36:48.000Z</pubTime>
+        <title>Ubuntu安装JDK</title>
+        <pubTime>2016-10-22T08:16:14.000Z</pubTime>
         
-        <tag>Git</tag>
+        <tag>Ubuntu</tag>
          
-        <tag>ssh</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
-  <url>
-    <loc>http://liyi.wiki/2016/10-28-%E4%BD%BF%E7%94%A8homebrew%E6%90%AD%E5%BB%BAPHP-Nginx-LNMP%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.html</loc>
-    <lastmod>2016-10-28T09:24:23.000Z</lastmod>
-    <data>
-        <display>
-        <title>使用homebrew搭建PHP,Nginx(LNMP开发环境)</title>
-        <pubTime>2016-10-28T08:55:24.000Z</pubTime>
-        
-        <tag>Php</tag>
-         
-        <tag>Nginx</tag>
+        <tag>JDK</tag>
          
          
            
@@ -80,27 +109,8 @@
 
     
   <url>
-    <loc>http://liyi.wiki/2016/10-24-launchpad%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A1%8C%E5%88%97%E6%95%B0Dock.html</loc>
-    <lastmod>2016-10-24T03:57:47.000Z</lastmod>
-    <data>
-        <display>
-        <title>launchpad自定义行列数Dock</title>
-        <pubTime>2016-10-24T03:56:16.000Z</pubTime>
-        
-        <tag>Mac</tag>
-         
-        <tag>launchpad</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/2016/10-22-first-topic.html</loc>
-    <lastmod>2016-10-22T16:24:14.000Z</lastmod>
+    <loc>http://liyi.wiki/posts/20985/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
         <title>first topic</title>
@@ -124,8 +134,23 @@
 
     
   <url>
-    <loc>http://liyi.wiki/2016/10-22-MarkDown%E7%AE%80%E6%98%8E%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C.html</loc>
-    <lastmod>2016-10-22T16:24:14.000Z</lastmod>
+    <loc>http://liyi.wiki/posts/45135/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>苍老师全裸艺术写真合集</title>
+        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/27937/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
         <title>MarkDown简明语法手册</title>
@@ -142,40 +167,16 @@
 
     
   <url>
-    <loc>http://liyi.wiki/2016/10-22-%E5%BF%AB%E9%80%9F%E5%88%87%E6%8D%A2npm%E6%BA%90%E7%9A%84%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7-nrm.html</loc>
-    <lastmod>2016-10-22T16:24:14.000Z</lastmod>
+    <loc>http://liyi.wiki/posts/32967/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
-        <title>快速切换npm源的开源工具--nrm</title>
-        <pubTime>2016-10-22T05:18:08.000Z</pubTime>
+        <title>launchpad自定义行列数Dock</title>
+        <pubTime>2016-10-24T03:56:16.000Z</pubTime>
         
-        <tag>Node</tag>
+        <tag>Mac</tag>
          
-        <tag>Npm</tag>
-         
-        <tag>JavaScript</tag>
-         
-         
-           
-             
-              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/2016/10-22-Ubuntu%E5%AE%89%E8%A3%85JDK.html</loc>
-    <lastmod>2016-10-22T16:24:14.000Z</lastmod>
-    <data>
-        <display>
-        <title>Ubuntu安装JDK</title>
-        <pubTime>2016-10-22T08:16:14.000Z</pubTime>
-        
-        <tag>Ubuntu</tag>
-         
-        <tag>JDK</tag>
+        <tag>launchpad</tag>
          
          
            
@@ -185,36 +186,35 @@
 
     
   <url>
-    <loc>http://liyi.wiki/2016/10-22-Npm%E5%91%BD%E4%BB%A4%E8%A1%8C%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8.html</loc>
-    <lastmod>2016-10-22T16:24:14.000Z</lastmod>
+    <loc>http://liyi.wiki/posts/41985/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
-        <title>Npm命令行自动补全</title>
-        <pubTime>2016-10-22T06:24:31.000Z</pubTime>
+        <title>使用homebrew搭建PHP,Nginx(LNMP开发环境)</title>
+        <pubTime>2016-10-28T08:55:24.000Z</pubTime>
         
-        <tag>Node</tag>
+        <tag>Php</tag>
          
-        <tag>Npm</tag>
-         
-        <tag>JavaScript</tag>
+        <tag>Nginx</tag>
          
          
            
-             
-              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
-          
         </display>
     </data>
     </url>
 
     
+    
+    
+    
+    
   <url>
-    <loc>http://liyi.wiki/2016/11-04-hello-world.html</loc>
+    <loc>http://liyi.wiki/posts/20662/</loc>
     <lastmod>2016-10-21T04:40:00.000Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2016-11-04T07:35:33.000Z</pubTime>
+        <title>hexo添加不被hexo编译的静态网页</title>
+        <pubTime>2016-10-28T14:56:20.000Z</pubTime>
         
          
            
@@ -227,12 +227,12 @@
 
     
   <url>
-    <loc>http://liyi.wiki/2016/10-28-hexo%E6%B7%BB%E5%8A%A0%E4%B8%8D%E8%A2%ABhexo%E7%BC%96%E8%AF%91%E7%9A%84%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5.html</loc>
+    <loc>http://liyi.wiki/posts/16107/</loc>
     <lastmod>2016-10-21T04:40:00.000Z</lastmod>
     <data>
         <display>
-        <title>hexo添加不被hexo编译的静态网页</title>
-        <pubTime>2016-10-28T14:56:20.000Z</pubTime>
+        <title>Hello World</title>
+        <pubTime>2016-11-04T07:35:33.000Z</pubTime>
         
          
            
