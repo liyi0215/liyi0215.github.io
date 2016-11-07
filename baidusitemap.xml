@@ -4,17 +4,13 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/41985/</loc>
+    <loc>http://liyi.wiki/posts/45135/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
-        <title>使用homebrew搭建PHP,Nginx(LNMP开发环境)</title>
-        <pubTime>2016-10-28T08:55:24.000Z</pubTime>
+        <title>苍老师全裸艺术写真合集</title>
+        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
         
-        <tag>Php</tag>
-         
-        <tag>Nginx</tag>
-         
          
            
         </display>
@@ -66,25 +62,6 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/7606/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>Ubuntu下忘记以root权限打开是的保存操作-vim命令</title>
-        <pubTime>2016-11-02T08:39:48.000Z</pubTime>
-        
-        <tag>Ubuntu</tag>
-         
-        <tag>Vim</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://liyi.wiki/posts/16716/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
@@ -104,38 +81,17 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/20985/</loc>
+    <loc>http://liyi.wiki/posts/7606/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
-        <title>first topic</title>
-        <pubTime>2016-10-21T18:12:47.000Z</pubTime>
+        <title>Ubuntu下忘记以root权限打开是的保存操作-vim命令</title>
+        <pubTime>2016-11-02T08:39:48.000Z</pubTime>
         
-        <tag>first</tag>
+        <tag>Ubuntu</tag>
          
-        <tag>topic</tag>
+        <tag>Vim</tag>
          
-         
-           
-             
-              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
-          
-             
-              <breadCrumb title="Npm" url="http://liyi.wiki/categories/Node/Npm/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/45135/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>苍老师全裸艺术写真合集</title>
-        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
-        
          
            
         </display>
@@ -162,6 +118,30 @@
 
     
   <url>
+    <loc>http://liyi.wiki/posts/57882/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>快速切换npm源的开源工具--nrm</title>
+        <pubTime>2016-10-22T05:18:08.000Z</pubTime>
+        
+        <tag>Node</tag>
+         
+        <tag>Npm</tag>
+         
+        <tag>JavaScript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://liyi.wiki/posts/32967/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
@@ -181,24 +161,19 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/57882/</loc>
+    <loc>http://liyi.wiki/posts/41985/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
-        <title>快速切换npm源的开源工具--nrm</title>
-        <pubTime>2016-10-22T05:18:08.000Z</pubTime>
+        <title>使用homebrew搭建PHP,Nginx(LNMP开发环境)</title>
+        <pubTime>2016-10-28T08:55:24.000Z</pubTime>
         
-        <tag>Node</tag>
+        <tag>Php</tag>
          
-        <tag>Npm</tag>
-         
-        <tag>JavaScript</tag>
+        <tag>Nginx</tag>
          
          
            
-             
-              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
-          
         </display>
     </data>
     </url>
@@ -232,7 +207,7 @@
     <data>
         <display>
         <title>Hello World</title>
-        <pubTime>2016-11-04T07:35:33.000Z</pubTime>
+        <pubTime>2016-11-07T08:22:53.000Z</pubTime>
         
          
            

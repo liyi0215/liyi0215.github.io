@@ -10,6 +10,7 @@
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>或者<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo s</div></pre></td></tr></table></figure></p>
 <p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
@@ -227,18 +228,6 @@
 <p>测试所有源的响应时间：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">nrm <span class="built_in">test</span></div></pre></td></tr></table></figure></p>
 <p>注意，为了取得较准确的结果，可以考虑多次测试取平均值。<br>nrm 为开源软件，使用 MIT 许可。</p>
 <h2 id="nrm项目主页"><a href="#nrm项目主页" class="headerlink" title="nrm项目主页"></a><a href="https://github.com/Pana/nrm" target="_blank" rel="external"><i class="fa fa-github"></i>nrm项目主页</a></h2>]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[first topic]]></title>
-      <url>http://liyi.wiki/posts/20985/</url>
-      <content type="html"><![CDATA[<h2 id="first-blog"><a href="#first-blog" class="headerlink" title="first blog"></a>first blog</h2><h3 id="haha"><a href="#haha" class="headerlink" title="haha"></a>haha</h3><blockquote>
-<p>哈哈哈哈哈 test glup</p>
-</blockquote>
-<h3 id="呵呵"><a href="#呵呵" class="headerlink" title="呵呵"></a>呵呵</h3><blockquote>
-<p>呵呵呵呵<br><code>123123</code></p>
-</blockquote>
-]]></content>
     </entry>
     
   
