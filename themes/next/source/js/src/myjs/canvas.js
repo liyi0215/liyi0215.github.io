@@ -1,4 +1,5 @@
 $(function(){
+    if(!isPC()) return;
     var canvas = document.querySelector('canvas'),
         ctx = canvas.getContext('2d');
     canvas.width = window.innerWidth;
@@ -16,6 +17,18 @@ $(function(){
         d_radius: 100,
         array: []
     };
+    function isPC() {
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android", "iPhone","SymbianOS", "Windows Phone","iPad", "iPod"];
+        var flag = true;
+        for (var v = 0; v < Agents.length; v++) {
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        return flag;
+    }
     function colorValue(min) {
         return Math.floor(Math.random() * 255 + min);
     }
