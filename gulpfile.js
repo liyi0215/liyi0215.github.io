@@ -1,5 +1,6 @@
 var gulp = require('gulp'),
     plugins = require('gulp-load-plugins')();
+var toPdf = require('htmltopdf');
 
 var asset = {
     js: './public/**/*.js',
@@ -26,4 +27,10 @@ gulp.task('min-html', function () {
         .pipe(plugins.clean())
         .pipe(plugins.htmlmin({removeComments: true, minifyJS: true, minifyCSS: true, minifyURLs: true}))
         .pipe(gulp.dest('./public'));
+});
+
+gulp.task('html2pdf', function () {
+    toPdf.createFromHtml('./public/about/index.html', './public/cv.pdf', function () {
+        console.info('createFromHtml');
+    })
 });
