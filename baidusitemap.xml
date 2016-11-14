@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://liyi.wiki/posts/41786/</loc>
-    <lastmod>2016-11-11T10:28:49.000Z</lastmod>
+    <lastmod>2016-11-14T02:25:09.000Z</lastmod>
     <data>
         <display>
         <title>FE-learning</title>
@@ -19,15 +19,24 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/45135/</loc>
+    <loc>http://liyi.wiki/posts/57882/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
-        <title>苍老师全裸艺术写真合集</title>
-        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
+        <title>快速切换npm源的开源工具--nrm</title>
+        <pubTime>2016-10-22T05:18:08.000Z</pubTime>
         
+        <tag>Node</tag>
+         
+        <tag>Npm</tag>
+         
+        <tag>JavaScript</tag>
+         
          
            
+             
+              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
+          
         </display>
     </data>
     </url>
@@ -95,43 +104,15 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/16716/</loc>
+    <loc>http://liyi.wiki/posts/45135/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
-        <title>Ubuntu安装JDK</title>
-        <pubTime>2016-10-22T08:16:14.000Z</pubTime>
+        <title>苍老师全裸艺术写真合集</title>
+        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
         
-        <tag>Ubuntu</tag>
-         
-        <tag>JDK</tag>
-         
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/57882/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>快速切换npm源的开源工具--nrm</title>
-        <pubTime>2016-10-22T05:18:08.000Z</pubTime>
-        
-        <tag>Node</tag>
-         
-        <tag>Npm</tag>
-         
-        <tag>JavaScript</tag>
-         
-         
-           
-             
-              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
-          
         </display>
     </data>
     </url>
@@ -148,6 +129,25 @@
         <tag>Git</tag>
          
         <tag>ssh</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/16716/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>Ubuntu安装JDK</title>
+        <pubTime>2016-10-22T08:16:14.000Z</pubTime>
+        
+        <tag>Ubuntu</tag>
+         
+        <tag>JDK</tag>
          
          
            

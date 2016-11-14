@@ -7,8 +7,7 @@
       <title><![CDATA[FE-learning]]></title>
       <url>http://liyi.wiki/posts/41786/</url>
       <content type="html"><![CDATA[<p>转载请注明出处: <a href="https://github.com/qiu-deqing/FE-learning" target="_blank" rel="external">https://github.com/qiu-deqing/FE-learning</a></p>
-<h1 id="FE-learning"><a href="#FE-learning" class="headerlink" title="FE-learning"></a>FE-learning</h1><p><img src="./img/FE.jpg" alt="FE"></p>
-<p>结合个人经历总结的前端入门方法，总结从零基础到具备前端基本技能的道路、学习方法、资料。由于能力有限，不能保证面面俱到，只是作为入门参考，面向初学者，让初学者少走弯路。</p>
+<h1 id="FE-learning"><a href="#FE-learning" class="headerlink" title="FE-learning"></a>FE-learning</h1><p>结合个人经历总结的前端入门方法，总结从零基础到具备前端基本技能的道路、学习方法、资料。由于能力有限，不能保证面面俱到，只是作为入门参考，面向初学者，让初学者少走弯路。</p>
 <p>互联网的快速发展和激烈竞争，用户体验成为一个重要的关注点，导致专业前端工程师成为热门职业，各大公司对前端工程师的需求量都很大，要求也越来越高，优秀的前端工程师更是稀缺。个人感觉前端入门相对容易，但是也需要系统地认真学习，在打好基础后坚持学习，成为优秀前端工程师也只是时间问题。</p>
 <p>学习任何知识最重要的都是<strong>兴趣</strong>，如果经过一段时间的学习感觉不喜欢，那可能强迫自己学习是很痛苦的，效果也不会好，毕竟这很可能就是以后很多年生存的技能。不过随着互联网行业的发展，前端必然是Web开发人员需要学习的知识，有时候是没有专业前端工程师一起合作的，所以即使不做专门的前端工程师，掌握基本的前端技能为工作带来方便。</p>
 <p>后期邀请了一些同学分享学习经历。如果有同学愿意分享,欢迎push</p>
@@ -184,7 +183,6 @@
 <ul>
 <li>响应式Web</li>
 <li>优雅降级、渐进增强</li>
-<li>don’t make me think</li>
 <li>网页可用性、可访问性、其中的意义</li>
 <li>SEO搜索引擎优化，了解搜索引擎的原理</li>
 <li>SPA的好处和问题</li>
