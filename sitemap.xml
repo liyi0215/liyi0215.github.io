@@ -23,28 +23,7 @@
   </url>
   
   <url>
-    <loc>http://liyi.wiki/posts/55551/</loc>
-    
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://liyi.wiki/posts/7606/</loc>
-    
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://liyi.wiki/posts/45135/</loc>
-    
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://liyi.wiki/posts/52220/</loc>
     
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     
@@ -58,7 +37,28 @@
   </url>
   
   <url>
+    <loc>http://liyi.wiki/posts/55551/</loc>
+    
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://liyi.wiki/posts/32967/</loc>
+    
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://liyi.wiki/posts/52220/</loc>
+    
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://liyi.wiki/posts/45135/</loc>
     
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     
@@ -100,14 +100,14 @@
   </url>
   
   <url>
-    <loc>http://liyi.wiki/posts/20662/</loc>
+    <loc>http://liyi.wiki/posts/16107/</loc>
     
     <lastmod>2016-10-21T04:40:00.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://liyi.wiki/posts/16107/</loc>
+    <loc>http://liyi.wiki/posts/20662/</loc>
     
     <lastmod>2016-10-21T04:40:00.000Z</lastmod>
     
@@ -117,13 +117,6 @@
     <loc>http://liyi.wiki/resume/static/css/style.css</loc>
     
     <lastmod>2016-09-01T15:35:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://liyi.wiki/resume/static/fonts/demo.css</loc>
-    
-    <lastmod>2016-09-01T15:32:53.000Z</lastmod>
     
   </url>
   
@@ -143,6 +136,13 @@
   
   <url>
     <loc>http://liyi.wiki/resume/static/js/modal.js</loc>
+    
+    <lastmod>2016-09-01T15:32:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://liyi.wiki/resume/static/fonts/demo.css</loc>
     
     <lastmod>2016-09-01T15:32:53.000Z</lastmod>
     

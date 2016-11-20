@@ -61,30 +61,6 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/55551/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>Npm命令行自动补全</title>
-        <pubTime>2016-10-22T06:24:31.000Z</pubTime>
-        
-        <tag>Node</tag>
-         
-        <tag>Npm</tag>
-         
-        <tag>JavaScript</tag>
-         
-         
-           
-             
-              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://liyi.wiki/posts/7606/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
@@ -95,40 +71,6 @@
         <tag>Ubuntu</tag>
          
         <tag>Vim</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/45135/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>苍老师全裸艺术写真合集</title>
-        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/52220/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>Git与ssh-key多账户配置</title>
-        <pubTime>2016-11-01T09:36:48.000Z</pubTime>
-        
-        <tag>Git</tag>
-         
-        <tag>ssh</tag>
          
          
            
@@ -157,6 +99,30 @@
 
     
   <url>
+    <loc>http://liyi.wiki/posts/55551/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>Npm命令行自动补全</title>
+        <pubTime>2016-10-22T06:24:31.000Z</pubTime>
+        
+        <tag>Node</tag>
+         
+        <tag>Npm</tag>
+         
+        <tag>JavaScript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://liyi.wiki/posts/32967/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
@@ -168,6 +134,40 @@
          
         <tag>launchpad</tag>
          
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/52220/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>Git与ssh-key多账户配置</title>
+        <pubTime>2016-11-01T09:36:48.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+        <tag>ssh</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/45135/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>苍老师全裸艺术写真合集</title>
+        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
+        
          
            
         </display>
@@ -199,12 +199,12 @@
     
     
   <url>
-    <loc>http://liyi.wiki/posts/20662/</loc>
+    <loc>http://liyi.wiki/posts/16107/</loc>
     <lastmod>2016-10-21T04:40:00.000Z</lastmod>
     <data>
         <display>
-        <title>hexo添加不被hexo编译的静态网页</title>
-        <pubTime>2016-10-28T14:56:20.000Z</pubTime>
+        <title>Hello World</title>
+        <pubTime>2016-11-07T08:22:53.000Z</pubTime>
         
          
            
@@ -217,12 +217,12 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/16107/</loc>
+    <loc>http://liyi.wiki/posts/20662/</loc>
     <lastmod>2016-10-21T04:40:00.000Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2016-11-07T08:22:53.000Z</pubTime>
+        <title>hexo添加不被hexo编译的静态网页</title>
+        <pubTime>2016-10-28T14:56:20.000Z</pubTime>
         
          
            
