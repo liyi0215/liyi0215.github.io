@@ -36,6 +36,30 @@
 
     
   <url>
+    <loc>http://liyi.wiki/posts/55551/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>Npm命令行自动补全</title>
+        <pubTime>2016-10-22T06:24:31.000Z</pubTime>
+        
+        <tag>Node</tag>
+         
+        <tag>Npm</tag>
+         
+        <tag>JavaScript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://liyi.wiki/posts/27937/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
@@ -67,30 +91,6 @@
          
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/55551/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>Npm命令行自动补全</title>
-        <pubTime>2016-10-22T06:24:31.000Z</pubTime>
-        
-        <tag>Node</tag>
-         
-        <tag>Npm</tag>
-         
-        <tag>JavaScript</tag>
-         
-         
-           
-             
-              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
-          
         </display>
     </data>
     </url>
