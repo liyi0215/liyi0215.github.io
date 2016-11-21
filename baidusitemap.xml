@@ -4,6 +4,23 @@
 
     
   <url>
+    <loc>http://liyi.wiki/posts/56020/</loc>
+    <lastmod>2016-11-21T03:34:01.000Z</lastmod>
+    <data>
+        <display>
+        <title>npm换源</title>
+        <pubTime>2016-11-21T03:01:42.000Z</pubTime>
+        
+        <tag>Npm</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://liyi.wiki/posts/41786/</loc>
     <lastmod>2016-11-14T02:25:09.000Z</lastmod>
     <data>
@@ -13,30 +30,6 @@
         
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/57882/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>快速切换npm源的开源工具--nrm</title>
-        <pubTime>2016-10-22T05:18:08.000Z</pubTime>
-        
-        <tag>Node</tag>
-         
-        <tag>Npm</tag>
-         
-        <tag>JavaScript</tag>
-         
-         
-           
-             
-              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
-          
         </display>
     </data>
     </url>
@@ -80,25 +73,6 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/16716/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>Ubuntu安装JDK</title>
-        <pubTime>2016-10-22T08:16:14.000Z</pubTime>
-        
-        <tag>Ubuntu</tag>
-         
-        <tag>JDK</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://liyi.wiki/posts/55551/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
@@ -123,17 +97,32 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/32967/</loc>
+    <loc>http://liyi.wiki/posts/16716/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
-        <title>launchpad自定义行列数Dock</title>
-        <pubTime>2016-10-24T03:56:16.000Z</pubTime>
+        <title>Ubuntu安装JDK</title>
+        <pubTime>2016-10-22T08:16:14.000Z</pubTime>
         
-        <tag>Mac</tag>
+        <tag>Ubuntu</tag>
          
-        <tag>launchpad</tag>
+        <tag>JDK</tag>
          
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/45135/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>苍老师全裸艺术写真合集</title>
+        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
+        
          
            
         </display>
@@ -161,15 +150,43 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/45135/</loc>
+    <loc>http://liyi.wiki/posts/32967/</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
-        <title>苍老师全裸艺术写真合集</title>
-        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
+        <title>launchpad自定义行列数Dock</title>
+        <pubTime>2016-10-24T03:56:16.000Z</pubTime>
         
+        <tag>Mac</tag>
+         
+        <tag>launchpad</tag>
+         
          
            
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/57882/</loc>
+    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>快速切换npm源的开源工具--nrm</title>
+        <pubTime>2016-10-22T05:18:08.000Z</pubTime>
+        
+        <tag>Node</tag>
+         
+        <tag>Npm</tag>
+         
+        <tag>JavaScript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Node" url="http://liyi.wiki/categories/Node/"/>
+          
         </display>
     </data>
     </url>
@@ -199,12 +216,12 @@
     
     
   <url>
-    <loc>http://liyi.wiki/posts/16107/</loc>
+    <loc>http://liyi.wiki/posts/20662/</loc>
     <lastmod>2016-10-21T04:40:00.000Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2016-11-07T08:22:53.000Z</pubTime>
+        <title>hexo添加不被hexo编译的静态网页</title>
+        <pubTime>2016-10-28T14:56:20.000Z</pubTime>
         
          
            
@@ -217,12 +234,12 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/20662/</loc>
+    <loc>http://liyi.wiki/posts/16107/</loc>
     <lastmod>2016-10-21T04:40:00.000Z</lastmod>
     <data>
         <display>
-        <title>hexo添加不被hexo编译的静态网页</title>
-        <pubTime>2016-10-28T14:56:20.000Z</pubTime>
+        <title>Hello World</title>
+        <pubTime>2016-11-07T08:22:53.000Z</pubTime>
         
          
            
