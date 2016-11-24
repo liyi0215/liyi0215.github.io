@@ -12,8 +12,8 @@ $(function(){
         y: 30 * canvas.height / 100
     };
     var dots = {
-        nb: 500,
-        distance: 50,
+        nb: 240,
+        distance: 120,
         d_radius: 100,
         array: []
     };

@@ -1,7 +1,6 @@
 <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-<meta name="baidu-site-verification" content="0JeUoId42d" />
 <meta baidu-gxt-verify-token="ab70f8329d281134cb6e95cfd4cc2709">
 
 {# #238, Disable Baidu tranformation #}
@@ -38,6 +37,10 @@
 
 <link href="{{ url_for(theme.css) }}/main.css?v={{ theme.version }}" rel="stylesheet" type="text/css" />
 
+{% if config.author %}
+  <meta name="author" content="{{ config.author }}" />
+{% endif %}
+<meta name="revised" content="{{ page.updated.format('YYYY/MM/DD') }}" />
 {% if page.keywords %}
   <meta name="keywords" content="{{ page.keywords }}" />
 {% elif page.tags and page.tags.length %}

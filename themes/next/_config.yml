@@ -127,6 +127,8 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
+  Blog: http://liyi.wiki
+  Email: mailto:ileeyi@163.com
   GitHub: https://github.com/liyi0215
   Twitter: https://twitter.com/liyi0215
   Weibo: http://weibo.com/lp0112
@@ -425,3 +427,8 @@ version: 5.0.2
 line_effect: true
 # reward_comment effect
 text_bounce: true
+
+# site_verification
+baidu_site_verification: 0JeUoId42d
+# google_site_verification:
+# qihu_site_verification:
