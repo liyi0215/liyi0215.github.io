@@ -4,147 +4,8 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/47084/</loc>
-    <lastmod>2016-11-24T02:29:43.000Z</lastmod>
-    <data>
-        <display>
-        <title>find命令实例:查找文件或目录</title>
-        <pubTime>2016-11-23T16:07:25.000Z</pubTime>
-        
-        <tag>Shell</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/56020/</loc>
-    <lastmod>2016-11-21T03:34:01.000Z</lastmod>
-    <data>
-        <display>
-        <title>npm换源</title>
-        <pubTime>2016-11-21T03:01:42.000Z</pubTime>
-        
-        <tag>Npm</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/41786/</loc>
-    <lastmod>2016-11-14T02:25:09.000Z</lastmod>
-    <data>
-        <display>
-        <title>FE-learning</title>
-        <pubTime>2016-11-11T10:23:49.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/27937/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>MarkDown简明语法手册</title>
-        <pubTime>2016-10-22T05:30:42.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="Markdown" url="http://liyi.wiki/categories/Markdown/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/7606/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>Ubuntu下忘记以root权限打开是的保存操作-vim命令</title>
-        <pubTime>2016-11-02T08:39:48.000Z</pubTime>
-        
-        <tag>Ubuntu</tag>
-         
-        <tag>Vim</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/16716/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>Ubuntu安装JDK</title>
-        <pubTime>2016-10-22T08:16:14.000Z</pubTime>
-        
-        <tag>Ubuntu</tag>
-         
-        <tag>JDK</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/41985/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>使用homebrew搭建PHP,Nginx(LNMP开发环境)</title>
-        <pubTime>2016-10-28T08:55:24.000Z</pubTime>
-        
-        <tag>Php</tag>
-         
-        <tag>Nginx</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/45135/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>苍老师全裸艺术写真合集</title>
-        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://liyi.wiki/posts/57882/</loc>
-    <lastmod>2016-11-07T03:23:49.000Z</lastmod>
+    <loc>http://liyi.wiki/posts/57882.html</loc>
+    <lastmod>2016-11-24T12:57:23.000Z</lastmod>
     <data>
         <display>
         <title>快速切换npm源的开源工具--nrm</title>
@@ -167,7 +28,146 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/32967/</loc>
+    <loc>http://liyi.wiki/posts/41985.html</loc>
+    <lastmod>2016-11-24T12:57:16.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用homebrew搭建PHP,Nginx(LNMP开发环境)</title>
+        <pubTime>2016-10-28T08:55:24.000Z</pubTime>
+        
+        <tag>Php</tag>
+         
+        <tag>Nginx</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/16716.html</loc>
+    <lastmod>2016-11-24T12:57:10.000Z</lastmod>
+    <data>
+        <display>
+        <title>Ubuntu安装JDK</title>
+        <pubTime>2016-10-22T08:16:14.000Z</pubTime>
+        
+        <tag>Ubuntu</tag>
+         
+        <tag>JDK</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/56020.html</loc>
+    <lastmod>2016-11-24T12:56:58.000Z</lastmod>
+    <data>
+        <display>
+        <title>npm换源</title>
+        <pubTime>2016-11-21T03:01:42.000Z</pubTime>
+        
+        <tag>Npm</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/27937.html</loc>
+    <lastmod>2016-11-24T12:56:47.000Z</lastmod>
+    <data>
+        <display>
+        <title>MarkDown简明语法手册</title>
+        <pubTime>2016-10-22T05:30:42.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Markdown" url="http://liyi.wiki/categories/Markdown/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/52220.html</loc>
+    <lastmod>2016-11-24T12:56:22.000Z</lastmod>
+    <data>
+        <display>
+        <title>Git与ssh-key多账户配置</title>
+        <pubTime>2016-11-01T09:36:48.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+        <tag>ssh</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/41786.html</loc>
+    <lastmod>2016-11-24T12:56:15.000Z</lastmod>
+    <data>
+        <display>
+        <title>FE-learning</title>
+        <pubTime>2016-11-11T10:23:49.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/47084.html</loc>
+    <lastmod>2016-11-24T12:56:02.000Z</lastmod>
+    <data>
+        <display>
+        <title>find命令实例:查找文件或目录</title>
+        <pubTime>2016-11-23T16:07:25.000Z</pubTime>
+        
+        <tag>Shell</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/45135.html</loc>
+    <lastmod>2016-11-24T12:52:09.000Z</lastmod>
+    <data>
+        <display>
+        <title>苍老师全裸艺术写真合集</title>
+        <pubTime>2016-11-04T04:18:49.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://liyi.wiki/posts/32967.html</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
@@ -186,7 +186,7 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/55551/</loc>
+    <loc>http://liyi.wiki/posts/55551.html</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
@@ -210,16 +210,16 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/52220/</loc>
+    <loc>http://liyi.wiki/posts/7606.html</loc>
     <lastmod>2016-11-07T03:23:49.000Z</lastmod>
     <data>
         <display>
-        <title>Git与ssh-key多账户配置</title>
-        <pubTime>2016-11-01T09:36:48.000Z</pubTime>
+        <title>Ubuntu下忘记以root权限打开是的保存操作-vim命令</title>
+        <pubTime>2016-11-02T08:39:48.000Z</pubTime>
         
-        <tag>Git</tag>
+        <tag>Ubuntu</tag>
          
-        <tag>ssh</tag>
+        <tag>Vim</tag>
          
          
            
@@ -233,12 +233,12 @@
     
     
   <url>
-    <loc>http://liyi.wiki/posts/20662/</loc>
+    <loc>http://liyi.wiki/posts/20662.html</loc>
     <lastmod>2016-10-21T04:40:00.000Z</lastmod>
     <data>
         <display>
         <title>hexo添加不被hexo编译的静态网页</title>
-        <pubTime>2016-10-28T14:56:20.000Z</pubTime>
+        <pubTime>2016-11-24T12:56:34.000Z</pubTime>
         
          
            
@@ -251,7 +251,7 @@
 
     
   <url>
-    <loc>http://liyi.wiki/posts/16107/</loc>
+    <loc>http://liyi.wiki/posts/16107.html</loc>
     <lastmod>2016-10-21T04:40:00.000Z</lastmod>
     <data>
         <display>
