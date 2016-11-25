@@ -6,6 +6,7 @@ abbrlink: 20662
 ---
 ## 如果你是不想hexo g时被模板改变你的html的话，可在在文件头加 **`layout: false`**
 例如新建一个404页面
+<!-- more -->
 ``` html
 ---
 layout: false

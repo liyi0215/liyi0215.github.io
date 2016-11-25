@@ -15,6 +15,7 @@ categories:
 ``` bash
 wget -c http://download.oracle.com/otn-pub/java/jdk/8u11-b12/jdk-8u11-linux-i586.tar.gz
 ```
+<!-- more -->
 ## 第二步，解压安装
 
 ``` bash

@@ -15,6 +15,7 @@ brew update
 brew tap homebrew/dupes
 brew tap josegonzalez/homebrew-php
 ```
+<!-- more -->
 可以使用brew options php55命令来查看安装php5.5的选项，这里我用下面的选项安装：
 ``` bash
 brew install php55

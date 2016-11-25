@@ -18,6 +18,7 @@ categories:
 
 后期邀请了一些同学分享学习经历。如果有同学愿意分享,欢迎push
 
+<!-- more -->
 ## 必备基础技能
 
 [前端技能汇总](https://github.com/JacksonTian/fks)这个项目详细记录

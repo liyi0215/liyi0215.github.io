@@ -17,6 +17,7 @@ ssh-keygen -t rsa -C 'ileeyi@163.com' -f id_rsa_github
 ```
 其中 **`ileeyi@163.com`** 替换为你的邮箱， **`id_rsa_github`** 为生成文件文件名，执行后会问你是否需要 enter a passphrase， 默认一路确认就行。
 
+<!-- more -->
 ## 添加到 ssh-agent
 将新生成的key 添加到 **ssh-agent**
 ``` bash

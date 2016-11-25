@@ -1,6 +1,9 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
-categories:
+categorie:  
+tags:   
+toc:
+fancybox:
+description: 
 ---

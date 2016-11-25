@@ -14,7 +14,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://liyi.wiki # https://liyi0215.github.io
 root: /
-permalink: posts/:abbrlink/    # :year-:month-:day-:title.html    :year/:month/:day/:title/
+permalink: posts/:abbrlink.html    # :year-:month-:day-:title.html    :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
@@ -70,9 +70,7 @@ theme: next
 ## coding: https://git.coding.net/ileeyi/ileeyi.git
 deploy:
 - type: git
-  repo:
-    github: https://github.com/liyi0215/liyi0215.github.io.git
-    coding: https://git.coding.net/ileeyi/ileeyi.git
+  repo: https://git.coding.net/ileeyi/ileeyi.git
   branch: master
 - type: baidu_url_submitter
 

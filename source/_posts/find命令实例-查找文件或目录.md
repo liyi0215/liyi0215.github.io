@@ -5,7 +5,7 @@ tags:
 abbrlink: 47084
 date: 2016-11-24 00:07:25
 categories:
-
+description: ""
 ---
 # find命令实例
 
@@ -18,7 +18,7 @@ categories:
 ```
 _**此处命令行提示符是`#`号,表示当前用户是root**_
 _**-type d(directory目录) -type f(file文件)**_
-
+<!-- more -->
 ## 找出当前目录下,文件名不区分大小写是 example 的所有文件
 ``` bash
 $ find . -iname example
