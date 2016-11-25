@@ -70,7 +70,9 @@ theme: next
 ## coding: https://git.coding.net/ileeyi/ileeyi.git
 deploy:
 - type: git
-  repo: https://git.coding.net/ileeyi/ileeyi.git
+  repo:
+    github: https://github.com/liyi0215/liyi0215.github.io.git
+    coding: https://git.coding.net/ileeyi/ileeyi.git
   branch: master
 - type: baidu_url_submitter
 
